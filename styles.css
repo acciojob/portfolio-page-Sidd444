@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+#skills{
+	display:flex;
+	background-color:lightblue
+}
+body,section,h1{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+#projects{
+	background-color:lightcoral;
+}
+h1,p{
+	text-align:center;
+}
